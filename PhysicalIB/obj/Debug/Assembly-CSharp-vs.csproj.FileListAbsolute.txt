@@ -1,0 +1,13 @@
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\Assembly-CSharp.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\UnityEditor.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\UnityEngine.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\UnityEngine.UI.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\Mono.Cecil.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\Unity.DataContract.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\TestUnitypack\unity5\PhysicalIB\Temp\bin\Debug\Unity.CecilTools.dll
+E:\TestUnitypack\unity5\PhysicalIB\obj\Debug\Assembly-CSharp.dll
+E:\TestUnitypack\unity5\PhysicalIB\obj\Debug\Assembly-CSharp.pdb
